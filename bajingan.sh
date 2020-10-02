@@ -13,7 +13,7 @@ echo "\033[35;1m"
 cal
 date
 echo ""      
-echo "\033[32;1mAuthor : Mr.B4J1N64N & Mr.IM81" 
+echo "\033[32;1mAuthor : ZEF12" 
 echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
 echo "\033[36;1mIndonesia Security Lite"
 echo "\033[37;1mJawaBarat Blackhat Army"
